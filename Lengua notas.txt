@@ -1,0 +1,70 @@
+<html>
+  <head>
+     <title> Lengua Mam </title>
+  </head>
+ <body background="cascadas.gif">
+
+<center> <font size="10" color="white"> LENGUA MAM </font> </center>
+<hr color="grey"><br>
+
+<center>
+<a href=""> SUBPAGINA </a> <br>
+<a href=""> ARCHIVO PDF </a> <br>
+<a href="https://sic.gob.mx/ficha.php?table=inali_li&table_id=42#:~:text=El%20mam%20pertenece%20al%20grupo,de%20la%20familia%20ling%C3%BC%C3%ADstica%20maya.&text=El%20%C3%A1rea%20hist%C3%B3ricamente%20ocupada%20por,departamento%20de%20San%20Marcos%2C%20Guatemala."> PAGINA WEB </a> <br>
+</center>
+<hr color="grey"><br>
+
+<center>
+<font size="10" color="grey" face"Aldhabi">
+El área históricamente ocupada por los hablantes de mam se localiza en la frontera de Chiapas con el departamento de San Marcos, Guatemala.
+</font>
+</center><br>
+
+<center>
+<img src="Mam.jpg" width="450" height="500">
+</center><br>
+
+<center>
+<font size="8" color="green" face"Batang">
+En la actualidad, aproximadamente 50,000 hablantes del mam habitan en el Estado de Chiapas. La palabra Mam significa abuelo no sólo en mam, sino en otros idiomas mayas.
+</font><br>
+</center>
+
+<center>
+<table border="3" width="450" height="500" >
+     <tr>
+       <td> <font size="10" color="black"> Columna imagen </font> </td>
+       <td> <font size="10" color="black"> Columna Precio </font> </td>
+       <td> <font size="10" color="black"> Columna Audio </font> </td>
+     </tr>
+     <tr>
+       <td> <img src="indigenas.jpg" width="300" height="200">  </td>
+       <td bgcolor="Green"> <font size="10" color="black"> $20,000</font> </td>
+       <td> <audio src="chiapa.mp3" controls> <audio/>  </td>
+    </tr>
+    <tr>
+       <td> <img src="lengua.png" width="300" height="200">  </td>
+       <td bgcolor="Green"> <font size="10" color="black"> $40,000</font> </td>
+       <td> <audio src="apas.mp3" controls> <audio/>  </td>
+    </tr>
+    <tr>
+       <td> <img src="mapa.jpg" width="300" height="200">  </td>
+       <td bgcolor="Green"> <font size="10" color="black"> $60,000</font> </td>
+       <td> <audio src="chi.mp3" controls> <audio/>  </td>
+    </tr><
+</table>
+</center>
+<br>
+
+<center>
+<font size="6" color="blue" face"Book Antiqua"> 
+La Norma de Escritura de la Lengua Mam consta de un alfabeto y de reglas ortográficas consensuadas por los hablantes de la misma, el documento es el resultado del trabajo colaborativo de tres años
+</font>
+
+<center>
+<video src="pueblo.mp4" controls width="700" height="350"> <video/>
+</center>
+
+</body>
+</html>
+
